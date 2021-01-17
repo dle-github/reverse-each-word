@@ -5,8 +5,3 @@ def reverse_each_word(string)
     reversedString = reversedArray.join(" ")
     return reversedString
 end
-
-
-
-
-#"Hello there, and how are you?"
